@@ -1,0 +1,15 @@
+C:\dev\GftRpg\GftRpg\obj\Debug\net6.0\GftRpg.csproj.AssemblyReference.cache
+C:\dev\GftRpg\GftRpg\obj\Debug\net6.0\GftRpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\GftRpg\GftRpg\obj\Debug\net6.0\GftRpg.AssemblyInfoInputs.cache
+C:\dev\GftRpg\GftRpg\obj\Debug\net6.0\GftRpg.AssemblyInfo.cs
+C:\dev\GftRpg\GftRpg\obj\Debug\net6.0\GftRpg.csproj.CoreCompileInputs.cache
+C:\dev\GftRpg\GftRpg\bin\Debug\net6.0\GftRpg.exe
+C:\dev\GftRpg\GftRpg\bin\Debug\net6.0\GftRpg.deps.json
+C:\dev\GftRpg\GftRpg\bin\Debug\net6.0\GftRpg.runtimeconfig.json
+C:\dev\GftRpg\GftRpg\bin\Debug\net6.0\GftRpg.dll
+C:\dev\GftRpg\GftRpg\bin\Debug\net6.0\GftRpg.pdb
+C:\dev\GftRpg\GftRpg\obj\Debug\net6.0\GftRpg.dll
+C:\dev\GftRpg\GftRpg\obj\Debug\net6.0\refint\GftRpg.dll
+C:\dev\GftRpg\GftRpg\obj\Debug\net6.0\GftRpg.pdb
+C:\dev\GftRpg\GftRpg\obj\Debug\net6.0\GftRpg.genruntimeconfig.cache
+C:\dev\GftRpg\GftRpg\obj\Debug\net6.0\ref\GftRpg.dll
